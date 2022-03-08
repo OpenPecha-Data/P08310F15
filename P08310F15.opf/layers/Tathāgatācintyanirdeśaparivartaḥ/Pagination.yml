@@ -1,0 +1,116 @@
+id: 7c0a6804d4eb414f9b7b331555632d70
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  7752c098ad1a4de3a0dbff303294fa14:
+    span:
+      start: 0
+      end: 4226
+    metadata: {}
+    page_info: null
+    imgnum: 1
+    reference: null
+  4f028f7169044070a665e1348e0c9862:
+    span:
+      start: 4228
+      end: 4310
+    metadata: {}
+    page_info: null
+    imgnum: 2
+    reference: null
+  6581586fcc104a859453cca1eb5fca5d:
+    span:
+      start: 4312
+      end: 4395
+    metadata: {}
+    page_info: null
+    imgnum: 3
+    reference: null
+  13aa62e2206249dba6ebc13d1d626109:
+    span:
+      start: 4397
+      end: 4483
+    metadata: {}
+    page_info: null
+    imgnum: 4
+    reference: null
+  2749437346374fe689c0ae773c8aab10:
+    span:
+      start: 4485
+      end: 4576
+    metadata: {}
+    page_info: null
+    imgnum: 5
+    reference: null
+  fb808caa0cc1420dbfce01c1e42e2d1f:
+    span:
+      start: 4578
+      end: 4664
+    metadata: {}
+    page_info: null
+    imgnum: 6
+    reference: null
+  6552ddcefe8948e687a2788b250327e8:
+    span:
+      start: 4666
+      end: 4756
+    metadata: {}
+    page_info: null
+    imgnum: 7
+    reference: null
+  3297391782f94641b7bb2a79602c44f7:
+    span:
+      start: 4758
+      end: 4848
+    metadata: {}
+    page_info: null
+    imgnum: 8
+    reference: null
+  ce954ce930ee43cab376207b3116b889:
+    span:
+      start: 4850
+      end: 4934
+    metadata: {}
+    page_info: null
+    imgnum: 9
+    reference: null
+  bc0be8b0a54a4accbb7fd84c9696797f:
+    span:
+      start: 4936
+      end: 5026
+    metadata: {}
+    page_info: null
+    imgnum: 10
+    reference: null
+  4cd73a25dfa14c28b77dd7bb08b0b1ce:
+    span:
+      start: 5028
+      end: 5116
+    metadata: {}
+    page_info: null
+    imgnum: 11
+    reference: null
+  67dd3f384f9e4b0e8228ff30f9e5a1b4:
+    span:
+      start: 5118
+      end: 5208
+    metadata: {}
+    page_info: null
+    imgnum: 12
+    reference: null
+  5ce80dfe1c8d474e9149d587955ad78a:
+    span:
+      start: 5210
+      end: 5302
+    metadata: {}
+    page_info: null
+    imgnum: 13
+    reference: null
+  d14cfc7b5cdb47c29aa115ab11feb0cc:
+    span:
+      start: 5304
+      end: 5375
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
